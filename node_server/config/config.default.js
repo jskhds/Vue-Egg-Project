@@ -29,14 +29,14 @@ module.exports = appInfo => {
     config.jwt = {
         secret: "xiaozhoubaogao"
     };
-    // 设置连接数据库 密码和数据库都是自己弄的
+    // 设置连接数据库 密码和数据库需要自己设置
     config.sequelize = {
         dialect: 'mysql',
-        database: 'xiaozhoucms',
+        database: '',
         host: 'localhost',
         port: 3306,
-        username: 'root',
-        password: 'hookup865749',
+        username: ' ',
+        password: '',
         timezone: '+08:00',
     }
     
