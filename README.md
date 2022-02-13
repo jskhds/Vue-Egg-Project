@@ -1,5 +1,5 @@
 # Vue-Egg-Project
-前后端分离的内容管理系统	 
+前后端分离的内容管理系统  	  
 	1.技术栈：  
 	  前  端：Vue + Element UI   
 	  后  端：Egg + Nunjucks  + MySQL + Sequlize  
